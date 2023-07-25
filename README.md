@@ -1,16 +1,40 @@
-### Hi there 👋
+**Profile**
 
-<!--
-**Sakonori/Sakonori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile]()
 
-Here are some ideas to get you started:
+Hello there! 👋 I'm Sakonori, a passionate software developer with a focus on MongoDB, Node.js, and HTML. I love building exciting projects and exploring new technologies. Apart from coding, I'm also a Discord enthusiast, and I enjoy creating integrations and bots for Discord servers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Technologies**
+
+- MongoDB
+- Node.js
+- HTML
+
+**Discord Integrations**
+
+- Bot Development: I create custom Discord bots to add fun and utility to your server.
+- Integrations: I build various Discord integrations to enhance the user experience and automate tasks.
+
+**GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs,issues&theme=dark)
+
+**Top Languages**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
+**My Projects**
+
+1. Kiyuki - A simple discord bot multi-propose
+   - Technologies used: MongoDB, Node.js
+   - Repository: [Link](https://github.com/Sakonori/Kiyuki)
+
+
+
+**Contact Me**
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- Email: [galaxy.mailpro@gmail.com](mailto:galaxy.mailpro@gmail.com)
+- Discord: Sakonori (sakonori_mitsuo)
+
+Feel free to explore my repositories and get in touch for collaboration or any interesting projects! 😄
