@@ -12,6 +12,8 @@ Hello there! 👋 I'm Sakonori, a passionate software developer with a focus on 
 **Discord Server**
   - L'élite ᆞ🏯 (French discord server only)
     - [Link](https://discord.gg/eCZWvXcmF7)
+      [x] 10 Members
+      [] 50 Members
 **Discord Integrations**
 
 - Bot Development: I create custom Discord bots to add fun and utility to your server.
