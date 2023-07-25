@@ -1,6 +1,6 @@
 **Profile**
 
-![Profile]()
+![Profile](https://cdn.discordapp.com/avatars/652400008141996042/5b4e5e5dea44604ebc837db960db2fa7.png)
 
 Hello there! 👋 I'm Sakonori, a passionate software developer with a focus on MongoDB, Node.js, and HTML. I love building exciting projects and exploring new technologies. Apart from coding, I'm also a Discord enthusiast, and I enjoy creating integrations and bots for Discord servers.
 
