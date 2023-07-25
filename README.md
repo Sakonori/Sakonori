@@ -33,7 +33,6 @@ Hello there! 👋 I'm Sakonori, a passionate software developer with a focus on 
 
 **Contact Me**
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
 - Email: [galaxy.mailpro@gmail.com](mailto:galaxy.mailpro@gmail.com)
 - Discord: Sakonori (sakonori_mitsuo)
 
