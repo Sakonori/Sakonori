@@ -29,7 +29,7 @@ Hello there! 👋 I'm Sakonori, a passionate software developer with a focus on 
 
 **Contact Me**
 
-- Email: [galaxy.mailpro@gmail.com](mailto:galaxy.mailpro@gmail.com)
+- Email: [sakonori@duck.com](mailto:sakonori@duck.com)
 - Discord: Sakonori (sakonori_mitsuo)
 
 Feel free to explore my repositories and get in touch for collaboration or any interesting projects! 😄
