@@ -1,6 +1,6 @@
 **Profile**
 
-![Profile](https://discord.com/channels/@me/1138202671283712232/1160689132994052186)
+![Profile](https://www.hebergeur-image.com/upload/88.175.190.142-65231e6438475.jpg)
 
 Hello there! 👋 I'm Sakonori, a passionate software developer with a focus on MongoDB, Node.js, python and HTML. I love building exciting projects and exploring new technologies. Apart from coding, I'm also a Discord enthusiast, and I enjoy creating integrations and bots for Discord servers.
 
